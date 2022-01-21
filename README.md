@@ -1,2 +1,2 @@
 # DarkMode-Functionality
-Switch to Dark mode
+Enabling Dark mode in android app
